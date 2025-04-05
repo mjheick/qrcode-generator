@@ -3,6 +3,8 @@
 
 Type stuff into text box, QR code is generated.
 
+Can see it in action at https://unliterate.net/projects/qr
+
 # Dependencies
 - phpqrcode 1.1.4 via [https://phpqrcode.sourceforge.net/](https://sourceforge.net/projects/phpqrcode/files/releases/)
 
