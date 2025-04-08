@@ -1,4 +1,4 @@
-# qr
+# qrcode-generator
 "real-time" qr code generator
 
 Type stuff into text box, QR code is generated.
